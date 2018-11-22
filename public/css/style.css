@@ -1,0 +1,10 @@
+
+
+body{ 
+    background-image: url("/images/fondobase3.jpg");
+    background-repeat:no-repeat; 
+    background-position:center; 
+    background-size:cover; 
+    padding:10px;
+    background-color: ghostwhite;
+}
